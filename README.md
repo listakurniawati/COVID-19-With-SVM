@@ -1,4 +1,4 @@
-# Indonesia-Sentiment-Classification-COVID-19-With-SVM
+# Sentiment-Analysis-of-COVID-19-Vaccination-in-Indonesia-using-SVM-Classifier
 
-Sentiment classification using SVM (Support Vector Machine) on COVID-19 Sentiment in Indonesia.
+Sentiment Analysis of COVID-19 Vaccination in Indonesia using SVM Classifier
 This is a project to classify indonesia sentiment using SVM
